@@ -6,9 +6,9 @@ namespace SOLID_Labb
     {
         static void Main(string[] args)
         {
-            Animal[] animals = {new Dog("Black"),
-                            new Hedgehog("Pink"),
-                            new Bird("Yellow")};
+            Animal[] animals = {new Dog("Black"), new Hedgehog("Pink"), new Bird("Yellow")};
+                            
+                           
 
             Console.WriteLine("###############");
             Console.WriteLine();
